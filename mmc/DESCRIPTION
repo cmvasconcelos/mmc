@@ -1,0 +1,10 @@
+Package: mmc
+Type: Package
+Title: Multivariate Markov Chains Estimation
+Version: 0.1.0
+Author: Carolina Vasconcelos
+Maintainer: 
+Description: Functions to model and estimate Multivariate Markov chains.
+License: 
+Encoding: UTF-8
+LazyData: true
